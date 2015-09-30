@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 絜齋毛詩經筵講義
-#+DATE: 2015-09-23 09:36:38
-#+PROPERTY: JUAN 1
+#+DATE: 2015-08-24 22:04:54.272593
+#+PROPERTY: ID KR1c0019
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷一
 <pb:KR1c0019_WYG_001-1a>¶
 欽定四庫全書¶
 　絜齋毛詩經筵講義卷一¶
@@ -344,4 +346,3 @@
 君之用人當取夫材之足以集事者歟抑取夫徳之足¶
 以感人者歟誦甘棠之詩宜知所決擇矣¶
 　絜齋毛詩經筵講義卷一¶
-

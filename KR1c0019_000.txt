@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 絜齋毛詩經筵講義
-#+DATE: 2015-09-23 09:36:38
-#+PROPERTY: JUAN 0
+#+DATE: 2015-08-24 22:04:54.258818
+#+PROPERTY: ID KR1c0019
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 目録
 <pb:KR1c0019_WYG_000-1a>¶
 欽定四庫全書　　　　　經部三¶
 　絜齋毛詩經筵講義目録　詩𩔖¶
@@ -97,4 +99,3 @@
 　　　　　恭校上¶
 　　　　　　　　　　總纂官(臣/)紀昀(臣/)陸錫熊(臣/)孫士毅¶
 　　　　　　　　　　總　校　官　(臣/)　陸　費　墀¶
-
